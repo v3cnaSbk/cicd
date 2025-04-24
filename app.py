@@ -53,7 +53,7 @@ def numerology(name):
     elif (sum==4):
         message = "You have a golly nature"
     elif (sum==5):
-        message = "You like to farty"
+        message = "You like to Party"
     elif (sum==6):
         message = "Your revenge is bitter"
     elif (sum==7):
